@@ -1,0 +1,9 @@
+# allez sur github
+# créer un new repo (attention clicker suar add readme)
+# une fois le projet créé, revenir sur vscode
+# git clone avec l'url ssh
+# copier tout vos fichiers dans le répertoire qui a été cloné
+# lancer les commandes suivantes
+git add . 
+git commit -m "add files" 
+git push orgin main
